@@ -6,9 +6,7 @@ library(ggthemes)
 
 # reading The Simpsons data
 simpsons <-
-   readr::read_csv(
-      "https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-08-27/simpsons-guests.csv"
-   ) %>%           
+   readr::read_delim("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-08-27/simpsons-guests.csv", delim = "|") %>%           
    filter(!str_detect(season, 'Movie')) %>% # removing observations with movie other than season number
    mutate(season = as.numeric(season)) # converting season variable to numeric
 
