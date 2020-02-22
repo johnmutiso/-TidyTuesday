@@ -36,7 +36,8 @@ myplot <- ggplot(data = mydata)+
     geom_point(aes(median_consumption, median_co2_emmission, col=food_class, shape=continent), size=6)+
     scale_shape()+
     theme_minimal()+
-    labs(x="CO2 Consumption/person/year [Median]", y="CO2 Emission/person/year [Median]", 
+    labs(x="CO2 Consumption (kg/person/year) [Median]", 
+         y="CO2 Emission (kg/person/year) [Median]", 
          title="Relationship between CO2 Consumption and Emission",
          subtitle = "Median Values Calculated by Continent and Food Class",
          caption = "Github: @johnmutiso")+
@@ -49,4 +50,7 @@ myplot <- ggplot(data = mydata)+
           axis.ticks = element_blank(), panel.background = element_rect(fill = "grey88"), 
           panel.grid = element_blank())
 
-ggsave(filename = "week 8.png", device = "jpeg", plot = myplot, width = 6.3, height = 6)
+ggsave(filename = "week 8.png", 
+       device = "jpeg", plot = myplot, 
+       width = 6.3, height = 6,
+       path = "2020/week 8/")
