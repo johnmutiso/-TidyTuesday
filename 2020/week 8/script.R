@@ -1,4 +1,6 @@
 # Get the Data
+library(tidyverse)
+library(ggthemes)
 
 food_consumption <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-18/food_consumption.csv')
 
@@ -17,8 +19,6 @@ food_consumption <- tuesdata$food_consumption
 country_continent <- readr::read_csv("https://raw.githubusercontent.com/dbouquin/IS_608/master/NanosatDB_munging/Countries-Continents.csv") %>% 
     rename(country=Country, continent=Continent)
 
-library(tidyverse)
-library(ggthemes)
 
 #merging and creating continent and food_class variables
 mydata <- left_join(food_consumption,country_continent, by="country") %>% 
