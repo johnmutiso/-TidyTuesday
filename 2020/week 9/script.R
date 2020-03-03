@@ -54,13 +54,14 @@ measles_mmr <- function(State="New York", legend.pos) {
               panel.grid.major = element_line(size = 15), 
               panel.background = element_rect(fill = 'white'),
               strip.text = element_text(face = 'bold', 
-                                        color = "gray30", size = 12), 
+                                        color = "gray30", size = 11), 
               axis.ticks = element_blank(), axis.line = element_blank(), 
               legend.title = element_blank(), axis.title = element_blank(),
               legend.position = legend.pos, legend.direction = 'horizontal') 
 }
 
 
+# Combining the plots using 'patchwork' features
 final_plot <- measles_mmr('New York','none')/measles_mmr('Ohio', 'bottom') +
     plot_annotation(title = "Average Measles Vaccination Rate per County (Public vs Private Schools)", subtitle = "New York and Ohio States", 
                     caption = "The data was completed by staff of The Wall Street Journal: Dylan Moriarty, Taylor Umlauf, & Brianna Abbot \nGithub: @johnmutiso")
