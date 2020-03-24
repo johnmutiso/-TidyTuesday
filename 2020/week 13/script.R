@@ -38,7 +38,7 @@ plot <- tbi_age %>%
     scale_fill_viridis_c(name = 'Estimated TBI rate\nper 100,000') +
     labs(title = "TRAUMATIC BRAIN INJURY (TBI) IN US (2014)", 
          subtitle = "Emergency Department Visits, Hospitalizations & Deaths", 
-         caption = "Github: @johnmutiso\ndata: schrute R Package & data.world\nGraphic: 2020-week 13 TidyTuesday") +
+         caption = "Github: @johnmutiso\ndata: CDC & Veterans Brain Injury Center\nGraphic: 2020-week 13 TidyTuesday") +
     theme_minimal() +
     facet_grid(~type) +
     theme(plot.background = element_rect(linetype = 8, fill = '#07070d'),
