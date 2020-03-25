@@ -22,14 +22,22 @@ tbi_age %>%
     filter(age_group %in% ('Total')) %>%
     group_by(injury_mechanism) %>% 
     summarise(sum = sum(number_est)) %>% 
-    arrange(sum) %>%  c()-> ordered_injr
+    arrange(sum) %>%  c()-> ordered_injr #to order by cause of injury
+
+tbi_age %>% 
+    filter(age_group %in% ('Total')) %>%
+    group_by(type) %>% 
+    summarise(sum = sum(number_est)) %>% 
+    arrange(desc(sum)) %>%  c()-> ordered_type #to order by cause of injury
+
 
 plot <- tbi_age %>%
     mutate_at(.vars = c(1,2), .funs = as.factor) %>% 
     mutate(age_group = factor(age_group, 
                               levels = c('0-4','0-17','5-14' ,'15-24','25-34','35-44','45-54', '55-64','65-74','75+','Total'), 
                               ordered = T),
-           injury_mechanism = factor(injury_mechanism, levels = ordered_injr[[1]])) %>% 
+           injury_mechanism = factor(injury_mechanism, levels = ordered_injr[[1]]),
+           type = factor(type, levels = ordered_type[[1]])) %>% 
     filter(!age_group %in% c('Total', '0-17')) %>% 
     ggplot() +
     geom_point(aes(age_group, injury_mechanism, size = number_est, fill = rate_est), pch = 21, col = 'white') +
@@ -55,5 +63,5 @@ plot <- tbi_age %>%
           plot.subtitle = element_text(colour = '#bbaeb6', face = 'bold.italic', size = 14))
 
 # Saving the plot
-ggsave(filename = 'week 12 plot.jpeg', plot = plot, device = 'jpeg', path = '2020/week 13/',dpi = 350,
+ggsave(filename = 'week 13 plot.jpeg', plot = plot, device = 'jpeg', path = '2020/week 13/',dpi = 350,
        width = 20, height = 6)
