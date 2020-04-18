@@ -33,6 +33,7 @@ rankings %>%
     ggplot() +
     geom_bar(aes(factor(year), mean_points, fill = gender), stat = 'identity') +
     scale_y_continuous(limits = c(0,60), expand = c(0,0)) +
+    scale_x_discrete(guide = guide_axis(n.dodge = 2)) + 
     scale_fill_brewer(palette = 'Paired', labels = c('Female','Male','Mixed')) +
     geom_text(aes(14,55), label = text1, family = 'Gabriola', hjust = -0.05, vjust = 1, size = 5, color = "#dddddd") +
     geom_text(aes(14, 45), label = text2, family = 'Gabriola', hjust = -0.05, vjust = 1, size = 5, color = "#ffb554") +
@@ -48,8 +49,8 @@ rankings %>%
          subtitle = "Key Focus on Best Female Artists {highlights annotated}",
          caption = "Github: @johnmutiso\nData: BBC Music via Simon Jockers at Datawrapper[@sjockers]\nGraphic: 2020-week 16 TidyTuesday") +
     theme_minimal() +
-    theme(axis.text.x  = element_text(angle = 90, vjust = 0.5, hjust = 1, color = "#c2e8ea",
-                                      family = 'Harrington', face = 'bold', size = 16),
+    theme(axis.text.x  = element_text(vjust = 0.5, hjust = 0.5, color = "#c2e8ea",
+                                      family = 'Harrington', face = 'bold', size = 14),
           axis.ticks = element_blank(),
           axis.title.y = element_text(color = "#c2e8ea"),
           axis.text.y = element_text(color = "#c2e8ea"),
@@ -82,12 +83,13 @@ ggplot() +
                      segment.alpha = 0.6, segment.size = 1, segment.color = 'snow1', nudge_y = -0.2,nudge_x=-0.3, col = '#c2e8ea', 
                      family = 'Gabriola', size = 5, fontface = 'bold',hjust = -0.2, vjust = 0.2, arrow = arrow(length = unit(0.1, 'in'))) + 
     scale_fill_viridis_c("Total Points\nAwarded") +
+    scale_x_discrete(guide = guide_axis(n.dodge = 2)) +
     labs(y = "Number of Times Voted as #1",
          title = "HipHop Hits with More than 10 Total Votes Annotated") +
     theme_minimal() +
     theme(
-        axis.text.x  = element_text(angle = 90, vjust = 0.5, hjust = 1, color = "#c2e8ea",
-                                    family = 'Harrington', face = 'bold', size = 12),
+        axis.text.x  = element_text(vjust = 0.5, hjust = 0.5, color = "#c2e8ea",
+                                    family = 'Harrington', face = 'bold', size = 10),
         plot.background = element_rect(fill = '#065535', linetype = 6, size = 1, color = 'snow1'),
         axis.title.y = element_text(color = "#c2e8ea", size = 14),
         axis.text.y = element_text(color = "#c2e8ea", size = 12),
@@ -106,4 +108,4 @@ plot
 
 # save the plot -----------------------------------------------------------------------------------------
 ggsave(filename = "week16plot.jpeg", device = 'jpeg', 
-       path = '2020/week 16/',plot = plot, dpi = 400, height = 9, width = 19)
+       path = '2020/week 16/',plot = plot, dpi = 500, height = 9, width = 19)
