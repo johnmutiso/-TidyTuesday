@@ -8,6 +8,7 @@
 # libraries ------------------------------------------------------------------------
 library(tidyverse)
 library(extrafont)
+library(lubridate)
 loadfonts(device = 'win')
 # data -----------------------------------------------------------------------------
 tuesdata <- tidytuesdayR::tt_load(2020, week = 18)
@@ -68,8 +69,11 @@ plot <-
     scale_x_date(date_breaks = '3 year', date_labels = '%Y') +
     scale_y_continuous(labels = scales::dollar) +
     scale_size_area("Number of\nPreviews", max_size = 8) +
-    scale_color_viridis_c("Theatre\ncapacity (%)", option = 'plasma') +
+    scale_color_viridis_c("Theatre\ncapacity", option = 'plasma',
+                          breaks = c(0.5,1.0,1.5),
+                          labels = c('50%', '100%', '150%')) +
     labs(
+        y = 'Weekly Gross Income',
         title = 'Is Hamilton Possibly the Best BROADWAY Show of All time???',
         caption = 'Github: @johnmutiso\nData: From Playbill via Alex Cookson [twitter: @alexcookson]\nGraphic: 2020-week 18 TidyTuesday'
     ) +
@@ -79,6 +83,8 @@ plot <-
         panel.grid = element_blank(),
         axis.text = element_text(color = '#f0f8ff', size = 12),
         legend.position = c(0.25, 0.8),
+        axis.title.x = element_blank(),
+        axis.title.y = element_text(size = 14, color = '#cbcba9'),
         legend.direction = 'horizontal',
         legend.key.width = unit(1.5, 'cm'),
         legend.box.background = element_rect(fill = '#cbcba9'),
