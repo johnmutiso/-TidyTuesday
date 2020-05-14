@@ -11,7 +11,10 @@ library(extrafont)
 
 # Data -----------------------------------------------------------------------------
 tuesdata <- tidytuesdayR::tt_load(2020, week = 20)
-volcano <- tuesdata$volcano %>%
+
+# Creating categories for the latest year of eruption -------------------------------
+volcano <-
+    tuesdata$volcano %>%
     mutate(
         eruption_year = as.numeric(last_eruption_year),
         erup_year_cat = factor(
@@ -21,8 +24,7 @@ volcano <- tuesdata$volcano %>%
                 eruption_year > 0 & eruption_year < 1900 ~ 3,
                 eruption_year >= 1900 & eruption_year < 2000 ~ 4,
                 eruption_year >= 2000 & eruption_year < 2010 ~ 5,
-                eruption_year >= 2010 &
-                    eruption_year <= 2020 ~ 6
+                eruption_year >= 2010 & eruption_year <= 2020 ~ 6
             ),
             labels = c(
                 'Unknown',
@@ -35,7 +37,7 @@ volcano <- tuesdata$volcano %>%
         )
     )
 
-
+# spatial dataset for the world map -------------------------------------
 world_map <- sf::st_as_sf(maps::map('world', fill = T, plot = F))
 
 # plot ----------------------------------------------------------------------------------------
@@ -44,24 +46,28 @@ plot <-
     geom_sf(
         data = world_map,
         color = '#696966',
-        fill = '#cbcba9',
+        fill = '#fffafa',
         size = 0.1
     ) +
     geom_point(
         data = volcano,
-        aes(x = longitude, y = latitude,
-            fill = erup_year_cat),
-        alpha = 0.8,
-        pch = 21,
+        aes(
+            x = longitude,
+            y = latitude,
+            fill = erup_year_cat,
+            color = erup_year_cat,
+            # last eruption period
+            shape = evidence_category
+        ),
+        # data certainity level
+        alpha = 0.6,
         size = 3,
-        color = '#0e2f44',
         position = position_jitter(
             height = 3.5,
             width = 3.5,
             seed = 100
         )
     ) +
-    scale_size_area(max_size = 30) +
     scale_fill_manual(
         'Last Eruption',
         values = c(
@@ -71,8 +77,10 @@ plot <-
             '#ff7400',
             '#ff4d00',
             '#ff0000'
-        )
+        ),
+        aesthetics = c('colour', 'fill')
     ) +
+    scale_shape_manual("Evidence category", values = 21:25) +
     labs(title = 'VOLCANO ERUPTIONS',
          subtitle = 'Last Eruption',
          caption = 'Github: @johnmutiso\nData: The Smithsonian Institution @SmithsonianGVP\nGraphic: 2020-week 20 TidyTuesday') +
@@ -107,10 +115,12 @@ plot <-
     )
 
 #Save plot ----------------------------------------------------------------------------------
-ggsave(plot = plot,
-       height = 8.1,
-       width = 16,
-       dpi = 500,
-       device = 'png',
-       filename = 'week20plot.png',
-       path = './2020/week 20/')
+ggsave(
+    plot = plot,
+    height = 8.1,
+    width = 15.8,
+    dpi = 500,
+    device = 'png',
+    filename = 'week20plot.png',
+    path = './2020/week 20/'
+)
