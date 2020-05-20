@@ -10,11 +10,14 @@ library(tidyverse)
 library(extrafont)
 
 # Data -----------------------------------------------------------------------------
-tuesdata <- tidytuesdayR::tt_load(2020, week = 20)
+#tuesdata <- tidytuesdayR::tt_load(2020, week = 20)
+
+# writing the data -----------------------------------------------------------------
+#readr::write_csv(x= tuesdata$volcano, './2020/week 20/data/volcano.csv', col_names = T)
 
 # Creating categories for the latest year of eruption -------------------------------
 volcano <-
-    tuesdata$volcano %>%
+    readr::read_csv('./2020/week 20/data/volcano.csv') %>%
     mutate(
         eruption_year = as.numeric(last_eruption_year),
         erup_year_cat = factor(
