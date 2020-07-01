@@ -69,7 +69,7 @@ marbles %>%
          caption = 'Github: @johnmutiso\nData: Jelle`s Marble Runs via Randy Olson\nGraphic: 2020-week 23 TidyTuesday') +
     scale_color_manual(values = colors) +
     scale_fill_viridis_c('Race time\nin seconds') +
-    scale_size('Average \n# of points') +
+    scale_size('Average time\nper lap (seconds)') +
     theme_bw() +
     theme(plot.background = element_rect(colour = '#065535', size = 5),
           axis.title = element_text(size = 14, color = '#407294'),
@@ -87,7 +87,7 @@ ggsave(
     width = 20,
     dpi = 500,
     device = 'png',
-    filename = 'week21plot.png',
+    filename = 'week23plot.png',
     path = './2020/week 23/'
 )
 
