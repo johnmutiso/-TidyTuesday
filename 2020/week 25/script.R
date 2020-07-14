@@ -1,5 +1,5 @@
 #' -------------------------------------------------------------------------------
-#' --Marble Racing--
+#' --Slave TRADE--
 #' The data this week comes from US Census's Archives(https://www.census.gov/content/dam/Census/library/working-papers/2002/demo/POP-twps0056.pdf),
 #'                                  Slave Voyages(https://slavevoyages.org/), & Black Past(https://www.blackpast.org/african-american-history-timeline/)
 #' This [BlackPast.org and Vox article](https://www.blackpast.org/african-american-history/juneteenth-birth-african-american-holiday-2/) 
