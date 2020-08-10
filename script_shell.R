@@ -5,11 +5,15 @@
 #' Credit: [John Mutiso](twitter: @johnmutiso_)
 #' --------------------------------------------------------------------------------
 
-week_num = 28
+rm(list = ls())
+week_num = 30
 #libraries -----------------------------------------------------------------------------
 library(tidyverse)
 library(extrafont)
 loadfonts(device = 'win')
+
+# download data from
+# tuesdata <- tidytuesdayR::tt_load(2020, week = week_num)
 
 source('read_TT_data.R')
 read_TTdata(week = week_num)

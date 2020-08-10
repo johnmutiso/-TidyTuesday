@@ -17,7 +17,8 @@ read_TTdata <- function(week) {
     
     ifelse(
         length(list.files(data_dir)) == 0 &
-            !exists('tuesdata') | length(list.files(data_dir)) == 0 ,
+            !exists('tuesdata') |
+            length(list.files(data_dir)) == 0 ,
         assign(
             'tuesdata',
             tidytuesdayR::tt_load(2020, week = week),
@@ -29,20 +30,15 @@ read_TTdata <- function(week) {
     
     # write and read data to directory
     if (exists('tuesdata'))
-        n_sets = length(tuesdata)
-    if (exists('tuesdata'))
-        d_name <- names(tuesdata[1])[1]
+        n_sets = length(tuesdata) %>% as.numeric()
+    #if (exists('tuesdata')) d_name <- names(tuesdata[1]) %>% as.numeric()
     
-    if (exists('tuesdata'))
-        ifelse(
-            n_sets > 1 & length(list.files(data_dir)) == 0,
-            for (i in 1:n_sets) {
-                dat_name <- names(tuesdata[1])[i]
-                #write to dir
-                readr::write_csv(tuesdata[[i]], path = paste0(data_dir, dat_name, '.csv'))
-            },
-            readr::write_csv(tuesdata[[1]], path = paste0(data_dir, d_name, '.csv'))
-        )
+    if (exists('tuesdata') & length(list.files(data_dir)) == 0)
+        for (i in 1:n_sets) {
+            dat_name <- names(tuesdata)[i]
+            #write to dir
+            readr::write_csv(tuesdata[[i]], path = paste0(data_dir, dat_name, '.csv'))
+        }
     
     #read to environment
     if (length(list.files(data_dir)) != 0)
