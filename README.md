@@ -3,7 +3,7 @@ The repo includes my contribution to #TidyTuesday from 2019, week 35.
 
 ![](2020/week\ 13/week\ 13 plot.jpeg)
 
-## | [2020](2020/week\ 39/data) |
+## | [2020](week%2010/week%2010%20plot.jpeg) |
 
 | **Data** | **Plot** | 
 | :---: | :---: |
