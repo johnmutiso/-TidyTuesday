@@ -1,9 +1,10 @@
 # **-#TidyTuesday**
 ---
-This repo includes my contribution to *#TidyTuesday*, a [r4ds](https://github.com/rfordatascience/tidytuesday) twitter tag from 2019, week 35. 
+This repo includes my contribution to *#TidyTuesday*, a [r4ds](https://github.com/rfordatascience/tidytuesday) twitter # tag from 2019, week 35. 
 ---
 
-**My 2020 week 16 contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category![](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg)
+**My 2020 week 16 contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category
+![](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg)
 
 ---
 
@@ -115,57 +116,57 @@ This repo includes my contribution to *#TidyTuesday*, a [r4ds](https://github.co
 
 ### [**Week 22 (`2020-05-26`): Cocktails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2022) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/week22plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/week22plot.png" width="50%">
 
 ---
 
 ### [**Week 21 (`2020-05-26`): Cocktails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2021) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot.png" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot.png" width="70%">
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot2.png" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot2.png" width="70%">
 
 ---
 
 ### [**Week 20 (`2020-05-12`): Volcano Eruptions**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2020) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2020/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2020/week20plot.png" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2020/week20plot.png" width="100%">
 
 ---
 
 ### [**Week 19 (`2020-05-05`): Animal Crossing**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2019) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2019/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2019/week19plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2019/week19plot.png" width="65%">
 
 ---
 
 ### [**Week 18 (`2020-04-28`): Broadway Musicals**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2018) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2018/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2018/week18plot.png" width="90%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2018/week18plot.png" width="100%">
 
 ---
 
 ### [**Week 17 (`2020-04-21`): GDPR Violation**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2017) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/week17plot.png" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2017/week17plot.png" width="90%">
 
 ---
 
 ### [**Week 16 (`2020-04-14`): Best Rap Artists**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2016) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg" width="90%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg" width="100%">
 
 ---
 
 ### [**Week 15 (`2020-04-07`): Tour de France**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2015) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2015/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2015/week%2015%20plot.jpeg" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2015/week%2015%20plot.jpeg" width="100%">
 
 ---
 
 ### [**Week 14 (`2020-03-31`): Beer Production**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2014) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2014/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2014/week%2014%20plot.jpeg" width="90%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2014/week14plot.jpeg" width="100%">
 
 ---
 
@@ -195,3 +196,12 @@ This repo includes my contribution to *#TidyTuesday*, a [r4ds](https://github.co
 
 ---
 
+## {[**2019**](2019/)}
+
+---
+
+### [**Week 35 (`2019-08-27`): Simpsons Guest Stars**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2019/Week_35) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2019/Week_35/script.R)
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2019/Week_35/2019-08-27_Simpsons_Barplot.png" width="100%">
+
+---
