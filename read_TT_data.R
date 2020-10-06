@@ -8,12 +8,12 @@ read_TTdata <- function(week) {
     # - main folder
     ifelse(!dir.exists(main_dir),
            dir.create(main_dir),
-           'Folder Exists')
+           print('Week Folder Exists'))
     
     # - data folder
     ifelse(!dir.exists(data_dir),
            dir.create(data_dir),
-           'Folder Exists')
+           print('Data Folder Exists'))
     
     ifelse(
         length(list.files(data_dir)) == 0 &
@@ -24,7 +24,7 @@ read_TTdata <- function(week) {
             tidytuesdayR::tt_load(2020, week = week),
             envir = globalenv()
         ),
-        'Data downloaded & Saved in Folder'
+        print('Data already Exists')
     )
     
     
@@ -34,6 +34,9 @@ read_TTdata <- function(week) {
     #if (exists('tuesdata')) d_name <- names(tuesdata[1]) %>% as.numeric()
     
     if (exists('tuesdata') & length(list.files(data_dir)) == 0)
+        
+        print('Writing data to the data folder')
+    
         for (i in 1:n_sets) {
             dat_name <- names(tuesdata)[i]
             #write to dir
@@ -42,6 +45,8 @@ read_TTdata <- function(week) {
     
     #read to environment
     if (length(list.files(data_dir)) != 0)
+        
+        print('reading data into R environment')
         
         for (i in 1:length(list.files(data_dir))) {
             data_name <- list.files(data_dir)[[i]]
