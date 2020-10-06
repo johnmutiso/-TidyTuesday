@@ -7,4 +7,4 @@ The repo includes my contribution to #TidyTuesday from 2019, week 35.
 
 | **Data** | **Plot** | 
 | :---: | :---: |
-| [Week 39](github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2039/data) | ![Himalayan Climbing Expeditions](github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2039/week22plot.png){width=10%} | 
+| [Week 39](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2039/data) | ![Himalayan Climbing Expeditions](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/week22plot.png){width=10%} | 
