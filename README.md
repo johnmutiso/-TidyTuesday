@@ -1,6 +1,6 @@
 # **#TidyTuesday**
 ---
-This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) twitter # tag) from 2019, week 35. 
+This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from 2019, week 35. 
 ---
 
 **My 2020 week 16 contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category
