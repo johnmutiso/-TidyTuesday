@@ -3,7 +3,7 @@
 This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from 2019, week 35. 
 ---
 
-**My 2020 week 16 contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category
+> **My 2020 week 16 contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category
 ![](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg)
 
 ---
@@ -74,13 +74,13 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ### [**Week 29 (`2020-07-14`): Astronaut Database**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2029) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2029/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2029/week29plot.png" width="90%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2029/week29plot.png" width="75%">
 
 ---
 
 ### [**Week 28 (`2020-07-07`): Coffee Ratings**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2028) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2028/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2028/week28plot.png" width="80%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2028/week28plot.png" width="70%">
 
 ---
 
@@ -92,7 +92,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ### [**Week 26 (`2020-06-23`): Caribou Locations**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2026) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2026/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2026/week26plot.png" width="100%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2026/week26plot.png" width="85%">
 
 ---
 
@@ -116,15 +116,15 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ### [**Week 22 (`2020-05-26`): Cocktails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2022) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/week22plot.png" width="50%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2022/week22plot.png" width="30%">
 
 ---
 
 ### [**Week 21 (`2020-05-26`): Cocktails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2021) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/script.R)
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot.png" width="80%">
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot2.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2021/week21plot2.png" width="90%">
 
 ---
 
