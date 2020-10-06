@@ -70,4 +70,4 @@ ggsave(
     path = paste0('2020/week ', week_num)
 )
 
-# Data via @alexcookson
+# Data via @alexcookson 
