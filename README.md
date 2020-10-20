@@ -3,12 +3,17 @@
 This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from 2019, week 35. 
 ---
 
-> **My [2020 week 16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R) contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category
+> **My [2020 week 16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R) contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category **thanks to** [*@MilesMcBain*](https://twitter.com/MilesMcBain)
 ![](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/week16plot.jpeg)
 
 ---
 
 ## {[**2020**](2020/)}
+
+---
+### [**Week 40 (`2020-09-29`): Beyonce & Taylor Swift Lyrics**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2040) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2040/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2039/week39plot.png" width="50%">
 
 ---
 

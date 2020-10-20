@@ -37,10 +37,11 @@ read_TTdata <- function(week) {
         
         print('Writing data to the data folder')
     
+    if (exists('tuesdata') & length(list.files(data_dir)) == 0)
         for (i in 1:n_sets) {
             dat_name <- names(tuesdata)[i]
             #write to dir
-            readr::write_csv(tuesdata[[i]], path = paste0(data_dir, dat_name, '.csv'))
+            readr::write_csv(tuesdata[[i]], file = paste0(data_dir, dat_name, '.csv'))
         }
     
     #read to environment
