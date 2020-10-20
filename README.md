@@ -9,12 +9,15 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ---
 
 ## {[**2020**](2020/)}
+---
+### [**Week 42 (`2020-10-13`): datasauRus dozen**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2042) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2042/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2042/week42plot.png" width="90%">
 
 ---
-### [**Week 40 (`2020-09-29`): Beyonce & Taylor Swift Lyrics**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2041) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2041/script.R) 
+### [**Week 41 (`2020-10-06`): Beyonce & Taylor Swift Lyrics**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2041) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2041/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2041/week41plot.png" width="100%">
-
 
 ---
 ### [**Week 40 (`2020-09-29`): Beyonce & Taylor Swift Lyrics**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2040) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2040/script.R) 
