@@ -13,7 +13,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ---
 ### [**Week 40 (`2020-09-29`): Beyonce & Taylor Swift Lyrics**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2040) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2040/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2039/week39plot.png" width="50%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2040/week40plot.png" width="50%">
 
 ---
 
