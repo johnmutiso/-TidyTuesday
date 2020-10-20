@@ -60,12 +60,13 @@ plot <-
         show.legend = F,
         hjust = 0
     ) +
-    scale_y_continuous(limits = c(0, 85), breaks = seq(0, 80, by = 10)) +
+    scale_y_log10() +
+    #scale_y_continuous(limits = c(0, 85), breaks = seq(0, 80, by = 10)) +
     scale_x_date(breaks = unique(charts$released_date), date_labels = '%d/%b-\n%Y', guide = guide_axis(check.overlap = T)) +
     scale_color_manual(values = c('#407294','#f7347a'), aesthetics = c('colour', 'fill')) +
     labs(
         x = '\nChart Release\nDate',
-        y = 'Highest Chart Position',
+        y = 'Highest Chart Position(log10)',
         title = '\n\n\n\nHighest Music Chart Position\n',
         subtitle = '<span style="color:#407294">Beyonce</p> & <span style="color:#f7347a">Taylor Swift</p>',
         caption = "Credit: @johnmutiso\nData:  Rosie Baillie(@Rosie_Baillie_) and Dr. Sara Stoudt.(@sastoudt)\nGraphic: #TidyTuesday Week 40\n\n\n\n"
@@ -94,3 +95,4 @@ ggsave(
     filename = paste0('week', week_num, 'plot.png'),
     path = paste0('2020/week ', week_num)
 )
+
