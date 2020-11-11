@@ -1,6 +1,6 @@
 # **#TidyTuesday**
 ---
-This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from 2019, week 35. 
+This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from ~2019, week 35~(lagged until **2020**). 
 ---
 
 > **My [2020 week 16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R) contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category **thanks to** [*@MilesMcBain*](https://twitter.com/MilesMcBain)
@@ -9,6 +9,12 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ---
 
 ## {[**2020**](2020/)}
+
+---
+### [**Week 43 (`2020-10-20`):  Great American Beer Festival Data**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2043) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2043/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2043/week43plot.png" width="90%">
+
 ---
 ### [**Week 42 (`2020-10-13`): datasauRus dozen**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2042) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2042/script.R) 
 
@@ -196,7 +202,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ---
 
-### [**Week 11 (`2020-03-10`): The Office**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2011) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2011/script.R)
+### [**Week 11 (`2020-03-10`): College Tuition, Diversity, and Pay**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2011) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2011/script.R)
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2011/week%2011%20plot1.jpeg" width="70%">
 
@@ -204,7 +210,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ---
 
-### [**Week 10 (`2020-03-03`): The Office**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2010/script.R)
+### [**Week 10 (`2020-03-03`): NHL Goals**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2010/script.R)
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2010/week%2010%20plot.jpeg" width="100%">
 
