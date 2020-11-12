@@ -11,6 +11,12 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ## {[**2020**](2020/)}
 
 ---
+### [**Week 45 (`2020-11-03`):  IKEA Furniture**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2045) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2045/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2045/week45plot.png" width="90%">
+
+
+---
 ### [**Week 44 (`2020-10-27`):  Canadian Wind Turbines**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2044) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2044/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2044/week44plot.png" width="90%">
