@@ -11,9 +11,14 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ## {[**2020**](2020/)}
 
 ---
+### [**Week 46 (`2020-11-10`):  Historical Phone Usage**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2046) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/week46plot.png" width="60%">
+
+---
 ### [**Week 45 (`2020-11-03`):  IKEA Furniture**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2045) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2045/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2045/week45plot.png" width="90%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2045/week45plot.png" width="60%">
 
 
 ---
