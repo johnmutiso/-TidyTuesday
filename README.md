@@ -20,12 +20,12 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ---
 ### [**Week 3 (`2021-01-12`): Art Collections**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%203) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%203/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%203/week3plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%203/week3plot.png" width="70%">
 
 ---
 ### [**Week 2 (`2021-01-05`): Transit Cost Project**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%202) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%202/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%202/week2plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%202/week2plot.png" width="70%">
 
 
 ## **2020**
