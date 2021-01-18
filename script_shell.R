@@ -6,7 +6,7 @@
 #' --------------------------------------------------------------------------------
 
 rm(list = ls())
-week_num = 37
+week_num = 49
 #libraries -----------------------------------------------------------------------------
 library(tidyverse)
 library(extrafont)
@@ -16,7 +16,7 @@ loadfonts(device = 'win')
 # tuesdata <- tidytuesdayR::tt_load(2020, week = week_num)
 
 source('read_TT_data.R')
-read_TTdata(week = week_num)
+read_TTdata(week = week_num, year=2021)
 
 # plot
 plot <- ggplot()

@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # **#TidyTuesday**
 ---
 This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from ~2019, week 35~(lagged until **2020**). 
@@ -8,10 +13,50 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ---
 
-## {[**2020**](2020/)}
+## {[**2020**](2020/)}{[**2021**](2021/)}
+
+## **2021**
 
 ---
-### [**Week 46 (`2020-11-10`):  Historical Phone Usage**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2046) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/script.R) 
+### [**Week 3 (`2021-01-12`): Art Collections**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2003) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2003/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2003/week3plot.png" width="70%">
+
+---
+### [**Week 2 (`2021-01-05`): Transit Cost Project**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2002) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2002/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2002/week2plot.png" width="70%">
+
+
+## **2020**
+
+---
+### [**Week 52 (`2020-12-22`): Big Mac Index**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2052) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2052/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2052/week52plot.png" width="70%">
+
+---
+### [**Week 51 (`2020-12-15`): Ninja Warrior**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2051) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2051/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2051/week51plot.png" width="70%">
+
+---
+### [**Week 50 (`2020-12-08`): Women of 2020**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2050) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2050/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2050/week50plot.png" width="70%">
+
+---
+### [**Week 49 (`2020-12-01`): Toronto Shelters**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2049) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2049/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2049/week49plot.png" width="80%">
+
+---
+### [**Week 48 (`2020-11-24`): Washington Trails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2048) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2048/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2049/week48plot.png" width="60%">
+
+---
+### [**Week 46 (`2020-11-10`): Historical Phone Usage**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2046) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/week46plot.png" width="60%">
 

@@ -1,9 +1,9 @@
 # Function to read and write TidyTuesday data ----
 
-read_TTdata <- function(week) {
+read_TTdata <- function(year, week) {
     # main dir
-    main_dir <- paste0('2020/week ', week, '/')
-    data_dir <- paste0('2020/week ', week, '/data/')
+    main_dir <- paste0(year, '/week ', week, '/')
+    data_dir <- paste0(year,'/week ', week, '/data/')
     # create directories
     # - main folder
     ifelse(!dir.exists(main_dir),
@@ -21,7 +21,7 @@ read_TTdata <- function(week) {
             length(list.files(data_dir)) == 0 ,
         assign(
             'tuesdata',
-            tidytuesdayR::tt_load(2020, week = week),
+            tidytuesdayR::tt_load(year, week = week),
             envir = globalenv()
         ),
         print('Data Already Exists', quote = F)
