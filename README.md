@@ -18,14 +18,14 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ## **2021**
 
 ---
-### [**Week 3 (`2021-01-12`): Art Collections**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2003) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2003/script.R) 
+### [**Week 3 (`2021-01-12`): Art Collections**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%203) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%203/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2003/week3plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%203/week3plot.png" width="70%">
 
 ---
-### [**Week 2 (`2021-01-05`): Transit Cost Project**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2002) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2002/script.R) 
+### [**Week 2 (`2021-01-05`): Transit Cost Project**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%202) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%202/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2002/week2plot.png" width="70%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%202/week2plot.png" width="70%">
 
 
 ## **2020**
@@ -53,7 +53,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ---
 ### [**Week 48 (`2020-11-24`): Washington Trails**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2048) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2048/script.R) 
 
-<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2049/week48plot.png" width="60%">
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2048/week48plot.png" width="60%">
 
 ---
 ### [**Week 46 (`2020-11-10`): Historical Phone Usage**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2046) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2046/script.R) 
