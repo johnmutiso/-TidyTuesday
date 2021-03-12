@@ -17,7 +17,7 @@ loadfonts(device = 'win')
 # tuesdata <- tidytuesdayR::tt_load(2020, week = week_num)
 
 source('read_TT_data.R')
-read_TTdata(week = week_num)
+read_TTdata(week = week_num, year=2020)
 
 ninja_warrior <- 
     ninja_warrior %>% 
@@ -57,7 +57,7 @@ ggsave(
     plot = plot,
     height = 25,
     width = 25,
-    dpi = 350,
+    #dpi = 350,
     device = 'png',
     filename = paste0('week',week_num,'plot.png'),
     path = paste0('2020/week ', week_num)
