@@ -18,6 +18,42 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 ## **2021**
 
 ---
+### [**Week 10 (`2021-03-02`): SuperBowl Ads**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/week10plot.png" width="70%">
+
+---
+### [**Week 9 (`2021-02-23`): Employment and Earnings**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%209) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%209/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%209/week9plot.png" width="70%">
+
+---
+### [**Week 8 (`2021-02-16`): W.E.B Du Bois Challenge**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%208) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%208/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%208/week8plot.png" width="70%">
+
+---
+### [**Week 7 (`2021-02-09`): Wealth and Income**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%207) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%207/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%207/week7plot.png" width="70%">
+
+---
+### [**Week 6 (`2021-02-02`): HBCU Enrollment**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%206) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%206/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%206/week6plot.png" width="70%">
+
+
+---
+### [**Week 5 (`2021-01-26`): Plastic Pollution**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%205) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%205/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%205/week5plot.png" width="70%">
+
+---
+### [**Week 4 (`2021-01-19`): Kenya Census**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%204) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%204/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%204/week4plot.png" width="70%">
+
+---
 ### [**Week 3 (`2021-01-12`): Art Collections**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%203) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%203/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%203/week3plot.png" width="70%">
