@@ -65,7 +65,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 </details>
 
-<details> <summary">2020</summary>
+<details> <summary>2020</summary>
 ---
 ### [**Week 52 (`2020-12-22`): Big Mac Index**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2052) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2052/script.R) 
 
