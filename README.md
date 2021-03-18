@@ -13,9 +13,9 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ---
 
-## {[**2020**](2020/)}{[**2021**](2021/)}
+# My Plots
 
-<details> <summary style="color:darkblue; font-size:70px;width:7in;font-weight:bold">2021</summary>
+<details> <summary>2021</summary>
 
 ---
 ### [**Week 10 (`2021-03-02`): SuperBowl Ads**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/script.R) 
@@ -65,7 +65,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 </details>
 
-<details> <summary style="color:darkblue; font-size:70px;width:7in;font-weight:bold">2020</summary>
+<details> <summary">2020</summary>
 ---
 ### [**Week 52 (`2020-12-22`): Big Mac Index**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2052) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2052/script.R) 
 
