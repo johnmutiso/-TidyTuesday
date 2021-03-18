@@ -15,7 +15,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 
 ## {[**2020**](2020/)}{[**2021**](2021/)}
 
-<details> <summary><span style="font-size=50px">2021</span></summary>
+<details> <summary><span style="font-size:100px; font-weight:bold">2021</span></summary>
 
 ---
 ### [**Week 10 (`2021-03-02`): SuperBowl Ads**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/script.R) 
