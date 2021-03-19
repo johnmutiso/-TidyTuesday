@@ -18,6 +18,11 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 <details> <summary>2021</summary>
 
 ---
+### [**Week 11 (`2021-03-09`): Bechdel Test**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2011) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2011/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2011/week11plot.png" width="70%">
+
+---
 ### [**Week 10 (`2021-03-02`): SuperBowl Ads**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2010) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2010/week10plot.png" width="70%">
