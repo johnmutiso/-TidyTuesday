@@ -18,6 +18,11 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 <details> <summary>2021</summary>
 
 ---
+### [**Week 13 (`2021-03-23`): UN Votes**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2013) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2013/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2013/week13plot.png" width="70%">
+
+---
 ### [**Week 12 (`2021-03-16`): Video Games + Sliced**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2012) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2012/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2012/week12plot.png" width="70%">
