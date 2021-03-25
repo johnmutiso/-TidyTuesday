@@ -1,7 +1,7 @@
 ---
 # **#TidyTuesday**
 ---
-This repo includes my contribution to [*#TidyTuesday*](https://github.com/rfordatascience/tidytuesday) - a weekly online data in R project from the [@R4DScommunity](https://twitter.com/R4DScommunity) and engineered by [Thomas Mock](https://twitter.com/thomas_mock) of **Rstudio**. 
+This repo includes my contribution to [*#TidyTuesday*](https://github.com/rfordatascience/tidytuesday) - a weekly online data project in R from the [@R4DScommunity](https://twitter.com/R4DScommunity) and engineered by [Thomas Mock](https://twitter.com/thomas_mock) of **Rstudio**. 
 ---
 
 > **My [2020 week 16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R) contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category **thanks to** [*@MilesMcBain*](https://twitter.com/MilesMcBain)

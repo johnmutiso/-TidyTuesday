@@ -21,6 +21,7 @@ read_TTdata(week = week_num, year=2021)
 # plot
 plot <- 
   ggplot()
+
 # save plot
 ggsave(
     plot = plot,
@@ -31,3 +32,6 @@ ggsave(
     filename = paste0('week',week_num,'plot.png'),
     path = paste0('2021/week ', week_num)
 )
+
+# remove history file
+file.remove('.Rhistory')
