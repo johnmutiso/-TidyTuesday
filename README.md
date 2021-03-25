@@ -1,11 +1,7 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
----
 # **#TidyTuesday**
 ---
-This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com/rfordatascience/tidytuesday) # tag) from ~2019, week 35~(lagged until **2020**). 
+This repo includes my contribution to [*#TidyTuesday*](https://github.com/rfordatascience/tidytuesday) - a weekly online data in R project from the [@R4DScommunity](https://twitter.com/R4DScommunity) and engineered by [Thomas Mock](https://twitter.com/thomas_mock) of **Rstudio**. 
 ---
 
 > **My [2020 week 16](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2016/script.R) contribution made it to the [*rweekly.org*](https://rweekly.org/2020-16.html)** in the Gist & Cookbook category **thanks to** [*@MilesMcBain*](https://twitter.com/MilesMcBain)
@@ -81,6 +77,7 @@ This repo includes my contribution to *#TidyTuesday*(a [r4ds](https://github.com
 </details>
 
 <details> <summary>2020</summary>
+
 ---
 ### [**Week 52 (`2020-12-22`): Big Mac Index**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2020/week%2052) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2020/week%2052/script.R) 
 
