@@ -58,7 +58,7 @@ ggplot(aes(year, prop_vote, col = vote)) +
   scale_x_continuous(
     guide = guide_axis(check.overlap = T),
     n.breaks = 20,
-    limits = c(1942, 2021),
+    limits = c(1945, 2021),
     
   ) +
   scale_color_manual(values = color, aesthetics = 'color') +
