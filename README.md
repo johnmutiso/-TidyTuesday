@@ -13,6 +13,8 @@ This repo includes my contribution to [*#TidyTuesday*](https://github.com/rforda
 
 <details> <summary>2021</summary>
 
+[Coli's Week 5 code](https://github.com/Caren-Koli/tidytuesday_challenge/blob/master/week5/Week%205_plastic%20pollution.R)
+
 ---
 ### [**Week 13 (`2021-03-23`): UN Votes**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2013) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2013/script.R) 
 
