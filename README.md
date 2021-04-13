@@ -14,7 +14,12 @@ This repo includes my contribution to [*#TidyTuesday*](https://github.com/rforda
 <details> <summary>2021</summary>
 
 ---
-### [**Week 13 (`2021-03-30`): Makeup Shades**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2014) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2014/script.R) 
+### [**Week 15 (`2021-04-06`): Global deforestation**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2015) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2015/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2015/week15plot.png" width="70%">
+
+---
+### [**Week 14 (`2021-03-30`): Makeup Shades**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2014) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2014/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2014/week14plot.png" width="70%">
 
