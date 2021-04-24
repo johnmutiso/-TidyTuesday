@@ -14,6 +14,16 @@ This repo includes my contribution to [*#TidyTuesday*](https://github.com/rforda
 <details> <summary>2021</summary>
 
 ---
+### [**Week 17 (`2021-04-20`): Netflix Titles**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2017) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2017/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2017/week17plot.png" width="70%">
+
+---
+### [**Week 16 (`2021-04-13`): US Post Offices**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2016) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2016/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2016/week16plot.png" width="70%">
+
+---
 ### [**Week 15 (`2021-04-06`): Global deforestation**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2015) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2015/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2015/week15plot.png" width="70%">
