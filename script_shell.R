@@ -22,7 +22,7 @@ read_TTdata(week = week_num, year=2021)
 # plot
 plot <- 
   ggplot() +
-  labs(fill = '', x = "", y = "% Change in Forest cover(%) from 1995-2020",
+  labs(fill = '', x = "", y = "",
        caption = paste0("**Graphic:** #TidyTuesday week",week_num, "<br> **Data:** ",data_source, "<br> **GitHub:** @johnmutiso"))  +
   theme(plot.caption=ggtext::element_markdown())
 

@@ -14,7 +14,17 @@ This repo includes my contribution to [*#TidyTuesday*](https://github.com/rforda
 <details> <summary>2021</summary>
 
 ---
-### [**Week 17 (`2021-04-20`): Netflix Titles**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2017) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2017/script.R) 
+### [**Week 19 (`04MAY2021`): Water Access Points**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2019) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2019/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2019/week19plot.png" width="70%">
+
+---
+### [**Week 18 (`27APR2021`): CEO Departures**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2018) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2018/script.R) 
+
+<img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2018/week18plot.png" width="70%">
+
+---
+### [**Week 17 (`20APR2021`): Netflix Titles**](https://github.com/johnmutiso/-TidyTuesday/tree/master/2021/week%2017) [`(code)`](https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2017/script.R) 
 
 <img src="https://github.com/johnmutiso/-TidyTuesday/blob/master/2021/week%2017/week17plot.png" width="70%">
 
