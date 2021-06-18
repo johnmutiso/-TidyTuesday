@@ -14,10 +14,10 @@ library(extrafont)
 loadfonts(device = 'win')
 
 # download data from
-# tuesdata <- tidytuesdayR::tt_load(2020, week = week_num)
+tuesdata <- tidytuesdayR::tt_load(2021, week = week_num)
 
-source('read_TT_data.R')
-read_TTdata(week = week_num, year=2021)
+#source('read_TT_data.R')
+#read_TTdata(week = week_num, year=2021)
 
 kenya_map <- 
   rKenyaCensus::KenyaCounties_SHP %>% 
@@ -26,7 +26,7 @@ kenya_map <-
   rmapshaper::ms_simplify()
 
 water <- 
-  water %>% 
+  tuesdata$water %>% 
   filter(country_name == "Kenya" & lat_deg < 5 & lon_deg>30 & lon_deg<50) %>% 
   mutate(report_date1=lubridate::as_date(report_date, format="%m/%d/%Y"),
          water_source = case_when(is.na(water_source) ~ '~Unknown Facility',
