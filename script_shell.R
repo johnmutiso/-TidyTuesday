@@ -6,11 +6,11 @@
 #' --------------------------------------------------------------------------------
 
 rm(list = ls())
-week_num = 20
+week_num = 22
 data_source <- ""
 #libraries -----------------------------------------------------------------------------
-library(tidyverse)
-library(extrafont)
+library(pacman)
+p_load(tidyverse, extrafont, patchwork, stringr)
 loadfonts(device = 'win')
 
 # download data from
